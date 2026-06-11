@@ -1,1 +1,1 @@
-SELECT * FROM `product_stock` WHERE 1
+SELECT * FROM `product_stock` WHERE product_name = 'shoe_lace';
